@@ -1,0 +1,6 @@
+# Ignorar el entorno virtual (muy pesado)
+.venv/
+__pycache__/
+
+# Ignorar las imágenes del dataset original
+data/
