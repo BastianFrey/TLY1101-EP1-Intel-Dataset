@@ -4,3 +4,4 @@ __pycache__/
 
 # Ignorar las imágenes del dataset original
 data/
+models/
